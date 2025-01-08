@@ -11,7 +11,7 @@ The Audio-to-Text Legal Document Generator is a cutting-edge solution designed t
 6)Cloud Integration: Offers easy access and collaboration through cloud storage, ensuring documents are always accessible.                          
 7)Time-Saving Automation: Streamlines repetitive tasks, enabling legal professionals to focus on analysis and strategy rather than administrative work.                                                   
 # Benefits:
-1)Enhanced Efficiency: Speeds up document creation, reducing workload and turnaround time.
-2)Accuracy & Compliance: Ensures precise transcription and adherence to legal standards.
-3)Cost-Effective: Minimizes the need for manual transcription services, saving resources.
+1)Enhanced Efficiency: Speeds up document creation, reducing workload and turnaround time.                          
+2)Accuracy & Compliance: Ensures precise transcription and adherence to legal standards.                     
+3)Cost-Effective: Minimizes the need for manual transcription services, saving resources.                   
 4)Versatility: Suitable for lawyers, paralegals, court reporters, and legal researchers.
